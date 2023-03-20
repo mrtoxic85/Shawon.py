@@ -90,7 +90,7 @@ else:
         Axak(y+"\n\n\t\tContract Admin For User And Pass")
         time.sleep(3)
         os.system('xdg-open https://www.https://www.facebook.com/Abal.Not.Allow4685.ACCOUNT')
-        os.system("python Shawon.py")
+        os.system("python bm.py")
 #
 
 x="XAK"
@@ -359,4 +359,4 @@ else:
         print(c+"\n\n\n\t\t[ðŸ’£] THANKS FOR USING THIS TOOL [ðŸ’£]")
         input(g+"\n\t\t\tEnter For Continue")
         os.system("clear")
-        os.system("python Shawon.py")
+        os.system("python Sh.py")
